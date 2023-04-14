@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**GabrielAlvB/GabrielAlvB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate frontend developer from México, I'm constantly learning and honing my knowledge.</h3>
 
