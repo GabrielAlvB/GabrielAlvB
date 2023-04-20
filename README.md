@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h1 align="center">Hi 👋, I am Gabriel</h1>
 <h3 align="center">A passionate Mechatronic Engineer from México, I'm constantly learning and honing my knowledge, I'm interested in data but currently my learning is focused on frontned</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielalvb&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielalvb" /> </p>
