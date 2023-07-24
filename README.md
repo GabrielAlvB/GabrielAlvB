@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrielalvb" alt="gabrielalvb" /></a> </p>
 
 - 🔭 I’m currently working on **ONE_Alura**
+- I'm also focusing on java, selenium in a company called sky mexico 
 
 - 🌱 I’m currently learning **Data Analythics, JS, Java**
 
